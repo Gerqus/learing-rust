@@ -1,0 +1,11 @@
+[package]
+name = "learning"
+version = "0.1.0"
+authors = ["ppieniacki <ppien@softserveinc.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "learning"
+path = "src/main.rs"
