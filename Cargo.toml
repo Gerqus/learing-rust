@@ -5,6 +5,7 @@ authors = ["ppieniacki <ppien@softserveinc.com>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6.5"
 
 [[bin]]
 name = "learning"
